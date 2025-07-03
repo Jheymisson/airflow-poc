@@ -5,7 +5,6 @@ pipeline {
         stage('Executar testes') {
             steps {
                 dir('/Users/jheymissonalbuquerque/Documents/estudo_airflow') {
-                {
                     sh '''
                         docker-compose exec -T airflow-webserver bash -c "
                           pip install -q pytest &&
