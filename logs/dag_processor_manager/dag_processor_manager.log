@@ -871,3 +871,499 @@ File Path                          PID    Runtime      # DAGs    # Errors  Last 
 /opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:35:52
 /opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:35:52
 ================================================================================
+[2025-07-03T03:36:05.823+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:36:05.867+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:36:26.375+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:36:26.396+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:36:27.420+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.05s           2025-07-03T03:36:25
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:36:25
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:36:25
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:36:25
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.09s           2025-07-03T03:36:25
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:36:25
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:36:25
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:36:25
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:36:25
+================================================================================
+[2025-07-03T03:36:46.588+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:36:46.598+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:36:57.471+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:36:52
+/opt/airflow/dags/trigger_4.py                              1           0  0.08s           2025-07-03T03:36:57
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.08s           2025-07-03T03:36:52
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:36:52
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.08s           2025-07-03T03:36:57
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.06s           2025-07-03T03:36:52
+/opt/airflow/dags/trigger_3.py      4417  0.08s             1           0  0.07s           2025-07-03T03:36:52
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:36:57
+/opt/airflow/dags/trigger_2.py      4418  0.00s             1           0  0.06s           2025-07-03T03:36:52
+================================================================================
+[2025-07-03T03:37:07.013+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:37:07.034+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:37:27.476+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:37:27.494+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:37:27.508+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:37:24
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:37:24
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:37:24
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:37:24
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.09s           2025-07-03T03:37:24
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:37:24
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:37:24
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:37:24
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:37:24
+================================================================================
+[2025-07-03T03:37:47.900+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:37:47.917+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:37:57.671+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:37:56
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:37:56
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.08s           2025-07-03T03:37:56
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.08s           2025-07-03T03:37:56
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.07s           2025-07-03T03:37:56
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.07s           2025-07-03T03:37:56
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:37:56
+/opt/airflow/dags/email_dag.py                              1           0  0.07s           2025-07-03T03:37:56
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:37:56
+================================================================================
+[2025-07-03T03:38:08.365+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:38:08.380+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:38:28.517+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:38:28.540+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:38:28.566+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:38:23
+/opt/airflow/dags/trigger_4.py                              1           0  0.07s           2025-07-03T03:38:23
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.05s           2025-07-03T03:38:23
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:38:23
+/opt/airflow/dags/1_basica_dag.py   4694  0.01s             1           0  0.10s           2025-07-03T03:38:23
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:38:23
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:38:23
+/opt/airflow/dags/email_dag.py      4695  0.00s             1           0  0.10s           2025-07-03T03:38:23
+/opt/airflow/dags/trigger_2.py                              1           0  0.05s           2025-07-03T03:38:23
+================================================================================
+[2025-07-03T03:38:49.044+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:38:49.069+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:38:58.878+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:38:55
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:38:55
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:38:55
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:38:55
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.07s           2025-07-03T03:38:55
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:38:55
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:38:55
+/opt/airflow/dags/email_dag.py                              1           0  0.07s           2025-07-03T03:38:55
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:38:55
+================================================================================
+[2025-07-03T03:39:09.585+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:39:09.599+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:39:29.077+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:39:27
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:39:27
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:39:28
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:39:28
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:39:27
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.07s           2025-07-03T03:39:28
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:39:27
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:39:27
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:39:27
+================================================================================
+[2025-07-03T03:39:30.086+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:39:30.101+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:39:50.672+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:39:50.681+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:39:59.330+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.13s           2025-07-03T03:39:55
+/opt/airflow/dags/trigger_4.py                              1           0  0.07s           2025-07-03T03:39:54
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.19s           2025-07-03T03:39:55
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.24s           2025-07-03T03:39:55
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.09s           2025-07-03T03:39:54
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.07s           2025-07-03T03:39:55
+/opt/airflow/dags/trigger_3.py                              1           0  0.13s           2025-07-03T03:39:54
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:39:54
+/opt/airflow/dags/trigger_2.py                              1           0  0.13s           2025-07-03T03:39:55
+================================================================================
+[2025-07-03T03:40:11.134+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:40:11.145+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:40:29.865+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:40:27
+/opt/airflow/dags/trigger_4.py                              1           0  0.07s           2025-07-03T03:40:27
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.05s           2025-07-03T03:40:27
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.05s           2025-07-03T03:40:27
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:40:27
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:40:27
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:40:27
+/opt/airflow/dags/email_dag.py                              1           0  0.10s           2025-07-03T03:40:27
+/opt/airflow/dags/trigger_2.py                              1           0  0.08s           2025-07-03T03:40:27
+================================================================================
+[2025-07-03T03:40:31.880+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:40:31.888+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:40:51.897+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:40:51.916+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:41:00.392+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:40:55
+/opt/airflow/dags/trigger_4.py                              1           0  0.08s           2025-07-03T03:40:55
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:40:55
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:40:55
+/opt/airflow/dags/1_basica_dag.py   5152  0.01s             1           0  0.11s           2025-07-03T03:40:55
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:40:55
+/opt/airflow/dags/trigger_3.py                              1           0  0.08s           2025-07-03T03:40:55
+/opt/airflow/dags/email_dag.py      5153  0.00s             1           0  0.11s           2025-07-03T03:40:55
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:40:55
+================================================================================
+[2025-07-03T03:41:12.622+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:41:12.633+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:41:30.792+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:41:27
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:41:27
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:41:27
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:41:27
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:41:27
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.06s           2025-07-03T03:41:27
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:41:27
+/opt/airflow/dags/email_dag.py                              1           0  0.10s           2025-07-03T03:41:27
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:41:27
+================================================================================
+[2025-07-03T03:41:32.815+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:41:32.834+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:41:53.382+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:41:53.397+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:42:01.302+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.08s           2025-07-03T03:42:00
+/opt/airflow/dags/trigger_4.py                              1           0  0.12s           2025-07-03T03:42:00
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:42:00
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.09s           2025-07-03T03:42:00
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.11s           2025-07-03T03:41:59
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.06s           2025-07-03T03:42:00
+/opt/airflow/dags/trigger_3.py                              1           0  0.10s           2025-07-03T03:42:00
+/opt/airflow/dags/email_dag.py                              1           0  0.12s           2025-07-03T03:41:59
+/opt/airflow/dags/trigger_2.py                              1           0  0.08s           2025-07-03T03:42:00
+================================================================================
+[2025-07-03T03:42:14.043+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:42:14.052+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:42:32.275+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.08s           2025-07-03T03:42:27
+/opt/airflow/dags/trigger_4.py                              1           0  0.08s           2025-07-03T03:42:27
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:42:27
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:42:27
+/opt/airflow/dags/1_basica_dag.py   5433  0.01s             1           0  0.10s           2025-07-03T03:42:26
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.06s           2025-07-03T03:42:27
+/opt/airflow/dags/trigger_3.py                              1           0  0.08s           2025-07-03T03:42:27
+/opt/airflow/dags/email_dag.py      5434  0.00s             1           0  0.10s           2025-07-03T03:42:26
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:42:27
+================================================================================
+[2025-07-03T03:42:34.555+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:42:34.573+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:42:55.049+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:42:55.064+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:43:02.498+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:42:59
+/opt/airflow/dags/trigger_4.py                              1           0  0.08s           2025-07-03T03:42:59
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:42:59
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:42:59
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.08s           2025-07-03T03:42:59
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.07s           2025-07-03T03:42:59
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:42:59
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:42:59
+/opt/airflow/dags/trigger_2.py                              1           0  0.05s           2025-07-03T03:42:59
+================================================================================
+[2025-07-03T03:43:15.398+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:43:15.418+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:43:32.706+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:43:31
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:43:31
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:43:31
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:43:31
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.08s           2025-07-03T03:43:31
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:43:31
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:43:31
+/opt/airflow/dags/email_dag.py                              1           0  0.08s           2025-07-03T03:43:31
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:43:31
+================================================================================
+[2025-07-03T03:43:35.729+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:43:35.741+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:43:56.325+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:43:56.343+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:44:02.722+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:43:58
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:43:58
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:43:58
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:43:58
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.08s           2025-07-03T03:43:58
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:43:58
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:43:58
+/opt/airflow/dags/email_dag.py                              1           0  0.07s           2025-07-03T03:43:58
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:43:58
+================================================================================
+[2025-07-03T03:44:16.985+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:44:17.001+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:44:33.459+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.12s           2025-07-03T03:44:31
+/opt/airflow/dags/trigger_4.py                              1           0  0.11s           2025-07-03T03:44:31
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.11s           2025-07-03T03:44:31
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.11s           2025-07-03T03:44:31
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.13s           2025-07-03T03:44:31
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.08s           2025-07-03T03:44:31
+/opt/airflow/dags/trigger_3.py                              1           0  0.11s           2025-07-03T03:44:31
+/opt/airflow/dags/email_dag.py                              1           0  0.12s           2025-07-03T03:44:31
+/opt/airflow/dags/trigger_2.py                              1           0  0.10s           2025-07-03T03:44:31
+================================================================================
+[2025-07-03T03:44:37.795+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:44:37.818+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:44:58.007+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:44:58.019+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:45:03.475+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:44:58
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:45:03
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:44:58
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:44:58
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.09s           2025-07-03T03:45:03
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:44:58
+/opt/airflow/dags/trigger_3.py      5894  0.00s             1           0  0.06s           2025-07-03T03:44:58
+/opt/airflow/dags/email_dag.py                              1           0  0.08s           2025-07-03T03:45:03
+/opt/airflow/dags/trigger_2.py      5895  0.00s             1           0  0.06s           2025-07-03T03:44:58
+================================================================================
+[2025-07-03T03:45:18.413+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:45:18.433+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:45:33.491+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.05s           2025-07-03T03:45:30
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:45:30
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:45:30
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:45:30
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.07s           2025-07-03T03:45:30
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:45:30
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:45:30
+/opt/airflow/dags/email_dag.py                              1           0  0.08s           2025-07-03T03:45:30
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:45:30
+================================================================================
+[2025-07-03T03:45:38.807+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:45:38.829+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:45:59.351+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:45:59.374+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:46:04.041+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.26s           2025-07-03T03:46:02
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:46:02
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.11s           2025-07-03T03:46:03
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.27s           2025-07-03T03:46:02
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:46:02
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.10s           2025-07-03T03:46:03
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:46:02
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:46:02
+/opt/airflow/dags/trigger_2.py                              1           0  0.09s           2025-07-03T03:46:02
+================================================================================
+[2025-07-03T03:46:20.239+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:46:20.255+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:46:34.114+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:46:29
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:46:29
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.09s           2025-07-03T03:46:30
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.08s           2025-07-03T03:46:30
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:46:29
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.07s           2025-07-03T03:46:30
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:46:29
+/opt/airflow/dags/email_dag.py                              1           0  0.10s           2025-07-03T03:46:29
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:46:29
+================================================================================
+[2025-07-03T03:46:40.485+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:46:40.499+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:47:01.141+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:47:01.152+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:47:04.694+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.10s           2025-07-03T03:47:02
+/opt/airflow/dags/trigger_4.py                              1           0  0.14s           2025-07-03T03:47:02
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.10s           2025-07-03T03:47:02
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.10s           2025-07-03T03:47:02
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.09s           2025-07-03T03:47:02
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.10s           2025-07-03T03:47:02
+/opt/airflow/dags/trigger_3.py                              1           0  0.14s           2025-07-03T03:47:02
+/opt/airflow/dags/email_dag.py                              1           0  0.09s           2025-07-03T03:47:02
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:47:02
+================================================================================
+[2025-07-03T03:47:21.802+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:47:21.812+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:47:34.906+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:47:29
+/opt/airflow/dags/trigger_4.py                              1           0  0.05s           2025-07-03T03:47:29
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.07s           2025-07-03T03:47:29
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.07s           2025-07-03T03:47:29
+/opt/airflow/dags/1_basica_dag.py   6366  0.01s             1           0  0.10s           2025-07-03T03:47:29
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:47:29
+/opt/airflow/dags/trigger_3.py                              1           0  0.08s           2025-07-03T03:47:29
+/opt/airflow/dags/email_dag.py      6367  0.00s             1           0  0.10s           2025-07-03T03:47:29
+/opt/airflow/dags/trigger_2.py                              1           0  0.09s           2025-07-03T03:47:29
+================================================================================
+[2025-07-03T03:47:42.591+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:47:42.610+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:48:03.237+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:48:03.258+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:48:05.294+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.07s           2025-07-03T03:48:02
+/opt/airflow/dags/trigger_4.py                              1           0  0.07s           2025-07-03T03:48:02
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:48:02
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:48:02
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:48:02
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.06s           2025-07-03T03:48:02
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:48:02
+/opt/airflow/dags/email_dag.py                              1           0  0.10s           2025-07-03T03:48:02
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:48:02
+================================================================================
+[2025-07-03T03:48:23.503+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:48:23.524+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:48:35.599+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:48:34
+/opt/airflow/dags/trigger_4.py                              1           0  0.07s           2025-07-03T03:48:34
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:48:34
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:48:34
+/opt/airflow/dags/1_basica_dag.py                           1           0  0.10s           2025-07-03T03:48:34
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:48:34
+/opt/airflow/dags/trigger_3.py                              1           0  0.07s           2025-07-03T03:48:34
+/opt/airflow/dags/email_dag.py                              1           0  0.10s           2025-07-03T03:48:34
+/opt/airflow/dags/trigger_2.py                              1           0  0.07s           2025-07-03T03:48:34
+================================================================================
+[2025-07-03T03:48:43.978+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:48:43.997+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:49:04.509+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:49:04.531+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags
+[2025-07-03T03:49:06.567+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/trigger_1.py                              1           0  0.06s           2025-07-03T03:49:01
+/opt/airflow/dags/trigger_4.py                              1           0  0.06s           2025-07-03T03:49:01
+/opt/airflow/dags/3_basica_dag.py                           1           0  0.06s           2025-07-03T03:49:01
+/opt/airflow/dags/4_basica_dag.py                           1           0  0.06s           2025-07-03T03:49:01
+/opt/airflow/dags/1_basica_dag.py   6647  0.01s             1           0  0.10s           2025-07-03T03:49:01
+/opt/airflow/dags/2_basica_dag.py                           1           0  0.05s           2025-07-03T03:49:01
+/opt/airflow/dags/trigger_3.py                              1           0  0.06s           2025-07-03T03:49:01
+/opt/airflow/dags/email_dag.py      6648  0.00s             1           0  0.09s           2025-07-03T03:49:01
+/opt/airflow/dags/trigger_2.py                              1           0  0.06s           2025-07-03T03:49:01
+================================================================================
+[2025-07-03T03:49:25.130+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-07-03T03:49:25.148+0000] {manager.py:729} INFO - There are 9 files in /opt/airflow/dags

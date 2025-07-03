@@ -1776,3 +1776,1053 @@
 [2025-07-03T03:35:58.256+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:35:58.256+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2025-07-03T03:35:58.267+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:35:58.267+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
 [2025-07-03T03:35:58.275+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:36:03.612+0000] {processor.py:153} INFO - Started process (PID=4247) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:03.612+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:03.613+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:03.613+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:03.621+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:03.643+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:03.642+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:03.655+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:03.655+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:03.667+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.057 seconds
+[2025-07-03T03:36:09.012+0000] {processor.py:153} INFO - Started process (PID=4256) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:09.013+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:09.013+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:09.013+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:09.021+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:09.041+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:09.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:09.054+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:09.054+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:09.067+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:36:14.364+0000] {processor.py:153} INFO - Started process (PID=4281) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:14.365+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:14.365+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:14.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:14.375+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:14.402+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:14.401+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:14.414+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:14.414+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:14.425+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:36:19.726+0000] {processor.py:153} INFO - Started process (PID=4290) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:19.727+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:19.727+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:19.727+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:19.736+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:19.751+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:19.751+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:19.768+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:19.768+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:19.782+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.058 seconds
+[2025-07-03T03:36:25.128+0000] {processor.py:153} INFO - Started process (PID=4315) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:25.128+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:25.129+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:25.129+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:25.137+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:25.149+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:25.149+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:25.163+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:25.163+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:25.171+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.045 seconds
+[2025-07-03T03:36:30.528+0000] {processor.py:153} INFO - Started process (PID=4324) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:30.529+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:30.529+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:30.529+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:30.539+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:30.552+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:30.552+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:30.564+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:30.564+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:30.572+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.045 seconds
+[2025-07-03T03:36:35.914+0000] {processor.py:153} INFO - Started process (PID=4348) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:35.915+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:35.915+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:35.915+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:35.923+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:35.936+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:35.936+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:35.950+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:35.950+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:35.960+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:36:41.328+0000] {processor.py:153} INFO - Started process (PID=4357) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:41.329+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:41.329+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:41.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:41.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:41.349+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:41.349+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:41.360+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:41.360+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:41.368+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:36:46.677+0000] {processor.py:153} INFO - Started process (PID=4382) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:46.677+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:46.678+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:46.678+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:46.686+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:46.702+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:46.702+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:46.717+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:46.717+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:46.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:36:52.024+0000] {processor.py:153} INFO - Started process (PID=4391) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:52.024+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:52.024+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:52.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:52.033+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:52.050+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:52.050+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:52.065+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:52.065+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:52.079+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.057 seconds
+[2025-07-03T03:36:57.390+0000] {processor.py:153} INFO - Started process (PID=4416) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:57.391+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:36:57.391+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:57.391+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:57.401+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:36:57.419+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:57.419+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:36:57.437+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:36:57.437+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:36:57.461+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.073 seconds
+[2025-07-03T03:37:02.782+0000] {processor.py:153} INFO - Started process (PID=4425) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:02.783+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:02.783+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:02.783+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:02.792+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:02.812+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:02.812+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:02.825+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:02.825+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:02.836+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:37:08.141+0000] {processor.py:153} INFO - Started process (PID=4443) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:08.142+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:08.142+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:08.142+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:08.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:08.170+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:08.169+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:08.186+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:08.186+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:08.198+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:37:13.520+0000] {processor.py:153} INFO - Started process (PID=4459) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:13.520+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:13.521+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:13.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:13.529+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:13.548+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:13.548+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:13.564+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:13.564+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:13.576+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:37:18.907+0000] {processor.py:153} INFO - Started process (PID=4468) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:18.908+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:18.908+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:18.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:18.917+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:18.932+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:18.932+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:18.946+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:18.946+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:18.959+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.053 seconds
+[2025-07-03T03:37:24.247+0000] {processor.py:153} INFO - Started process (PID=4493) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:24.247+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:24.248+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:24.248+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:24.256+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:24.272+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:24.272+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:24.285+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:24.285+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:24.296+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:37:29.614+0000] {processor.py:153} INFO - Started process (PID=4502) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:29.614+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:29.615+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:29.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:29.622+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:29.635+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:29.634+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:29.646+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:29.645+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:29.653+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:37:35.038+0000] {processor.py:153} INFO - Started process (PID=4527) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:35.038+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:35.038+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:35.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:35.046+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:35.058+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:35.058+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:35.070+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:35.069+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:35.077+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.042 seconds
+[2025-07-03T03:37:40.409+0000] {processor.py:153} INFO - Started process (PID=4536) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:40.411+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:40.412+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:40.412+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:40.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:40.435+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:40.435+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:40.448+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:40.447+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:40.458+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:37:45.697+0000] {processor.py:153} INFO - Started process (PID=4561) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:45.697+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:45.698+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:45.698+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:45.706+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:45.722+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:45.722+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:45.738+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:45.738+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:45.748+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.052 seconds
+[2025-07-03T03:37:51.050+0000] {processor.py:153} INFO - Started process (PID=4570) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:51.050+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:51.051+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:51.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:51.058+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:51.071+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:51.071+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:51.082+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:51.082+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:51.089+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:37:56.397+0000] {processor.py:153} INFO - Started process (PID=4594) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:56.397+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:37:56.398+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:56.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:56.406+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:37:56.419+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:56.419+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:37:56.432+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:37:56.432+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:37:56.440+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.045 seconds
+[2025-07-03T03:38:01.814+0000] {processor.py:153} INFO - Started process (PID=4603) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:01.815+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:01.815+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:01.815+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:01.823+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:01.835+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:01.835+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:01.846+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:01.846+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:01.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.042 seconds
+[2025-07-03T03:38:07.150+0000] {processor.py:153} INFO - Started process (PID=4628) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:07.150+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:07.151+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:07.151+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:07.160+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:07.175+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:07.175+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:07.188+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:07.188+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:07.200+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.052 seconds
+[2025-07-03T03:38:12.563+0000] {processor.py:153} INFO - Started process (PID=4637) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:12.564+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:12.564+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:12.564+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:12.577+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:12.590+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:12.590+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:12.603+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:12.603+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:12.618+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:38:17.881+0000] {processor.py:153} INFO - Started process (PID=4662) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:17.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:17.882+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:17.881+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:17.890+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:17.905+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:17.905+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:17.921+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:17.921+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:17.932+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:38:23.240+0000] {processor.py:153} INFO - Started process (PID=4671) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:23.240+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:23.241+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:23.241+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:23.249+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:23.268+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:23.268+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:23.285+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:23.285+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:23.297+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:38:28.639+0000] {processor.py:153} INFO - Started process (PID=4696) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:28.639+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:28.639+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:28.639+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:28.647+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:28.659+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:28.659+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:28.670+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:28.670+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:28.678+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:38:34.002+0000] {processor.py:153} INFO - Started process (PID=4705) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:34.003+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:34.003+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:34.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:34.014+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:34.027+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:34.027+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:34.040+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:34.040+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:34.051+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:38:39.293+0000] {processor.py:153} INFO - Started process (PID=4730) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:39.293+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:39.298+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:39.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:39.310+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:39.330+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:39.330+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:39.349+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:39.349+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:39.365+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.075 seconds
+[2025-07-03T03:38:44.750+0000] {processor.py:153} INFO - Started process (PID=4739) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:44.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:44.751+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:44.751+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:44.759+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:44.771+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:44.771+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:44.783+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:44.783+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:44.791+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.042 seconds
+[2025-07-03T03:38:50.244+0000] {processor.py:153} INFO - Started process (PID=4764) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:50.245+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:50.246+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:50.246+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:50.256+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:50.274+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:50.274+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:50.293+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:50.293+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:50.309+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.068 seconds
+[2025-07-03T03:38:55.654+0000] {processor.py:153} INFO - Started process (PID=4773) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:55.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:38:55.654+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:55.654+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:55.663+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:38:55.676+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:55.676+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:38:55.688+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:38:55.688+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:38:55.700+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.048 seconds
+[2025-07-03T03:39:00.978+0000] {processor.py:153} INFO - Started process (PID=4789) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:00.979+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:00.980+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:00.980+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:00.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:01.005+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:01.005+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:01.020+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:01.020+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:01.032+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:39:06.371+0000] {processor.py:153} INFO - Started process (PID=4807) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:06.371+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:06.372+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:06.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:06.380+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:06.395+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:06.394+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:06.408+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:06.408+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:06.420+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:39:11.739+0000] {processor.py:153} INFO - Started process (PID=4816) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:11.740+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:11.740+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:11.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:11.748+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:11.762+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:11.761+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:11.774+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:11.774+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:11.786+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:39:17.063+0000] {processor.py:153} INFO - Started process (PID=4841) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:17.064+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:17.065+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:17.065+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:17.076+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:17.089+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:17.088+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:17.102+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:17.102+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:17.110+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:39:22.428+0000] {processor.py:153} INFO - Started process (PID=4850) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:22.429+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:22.429+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:22.429+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:22.438+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:22.451+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:22.451+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:22.464+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:22.463+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:22.476+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:39:27.815+0000] {processor.py:153} INFO - Started process (PID=4875) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:27.815+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:27.816+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:27.816+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:27.824+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:27.836+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:27.836+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:27.847+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:27.847+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:27.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:39:33.257+0000] {processor.py:153} INFO - Started process (PID=4884) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:33.258+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:33.258+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:33.258+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:33.267+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:33.289+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:33.289+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:33.303+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:33.303+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:33.317+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.062 seconds
+[2025-07-03T03:39:38.641+0000] {processor.py:153} INFO - Started process (PID=4909) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:38.641+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:38.641+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:38.641+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:38.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:38.661+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:38.661+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:38.672+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:38.672+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:38.680+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:39:44.064+0000] {processor.py:153} INFO - Started process (PID=4918) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:44.064+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:44.064+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:44.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:44.073+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:44.094+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:44.094+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:44.111+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:44.111+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:44.126+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.065 seconds
+[2025-07-03T03:39:49.404+0000] {processor.py:153} INFO - Started process (PID=4943) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:49.406+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:49.408+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:49.408+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:49.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:49.438+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:49.438+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:49.454+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:49.454+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:49.473+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.072 seconds
+[2025-07-03T03:39:54.830+0000] {processor.py:153} INFO - Started process (PID=4952) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:54.831+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:39:54.832+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:54.832+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:54.842+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:39:54.859+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:54.859+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:39:54.876+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:39:54.876+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:39:54.892+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.064 seconds
+[2025-07-03T03:40:00.431+0000] {processor.py:153} INFO - Started process (PID=4977) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:00.432+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:00.432+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:00.432+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:00.441+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:00.463+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:00.463+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:00.480+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:00.480+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:00.495+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.065 seconds
+[2025-07-03T03:40:05.837+0000] {processor.py:153} INFO - Started process (PID=4986) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:05.837+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:05.837+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:05.837+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:05.846+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:05.867+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:05.867+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:05.883+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:05.883+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:05.896+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.061 seconds
+[2025-07-03T03:40:11.242+0000] {processor.py:153} INFO - Started process (PID=5011) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:11.242+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:11.242+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:11.242+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:11.250+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:11.262+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:11.262+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:11.273+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:11.273+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:11.281+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:40:16.666+0000] {processor.py:153} INFO - Started process (PID=5020) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:16.667+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:16.667+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:16.667+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:16.675+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:16.687+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:16.687+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:16.698+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:16.698+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:16.705+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:40:22.114+0000] {processor.py:153} INFO - Started process (PID=5045) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:22.114+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:22.115+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:22.115+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:22.133+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:22.154+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:22.154+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:22.170+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:22.170+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:22.183+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.073 seconds
+[2025-07-03T03:40:27.601+0000] {processor.py:153} INFO - Started process (PID=5054) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:27.603+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:27.603+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:27.603+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:27.612+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:27.625+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:27.625+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:27.639+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:27.639+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:27.658+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:40:33.050+0000] {processor.py:153} INFO - Started process (PID=5072) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:33.052+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:33.056+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:33.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:33.083+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:33.121+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:33.120+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:33.151+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:33.151+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:33.211+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.165 seconds
+[2025-07-03T03:40:38.859+0000] {processor.py:153} INFO - Started process (PID=5088) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:38.859+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:38.860+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:38.860+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:38.868+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:38.879+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:38.879+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:38.891+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:38.891+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:38.898+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:40:44.232+0000] {processor.py:153} INFO - Started process (PID=5097) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:44.233+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:44.233+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:44.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:44.242+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:44.260+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:44.260+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:44.277+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:44.277+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:44.297+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.067 seconds
+[2025-07-03T03:40:49.687+0000] {processor.py:153} INFO - Started process (PID=5121) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:49.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:49.688+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:49.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:49.696+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:49.719+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:49.719+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:49.735+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:49.735+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:49.746+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.061 seconds
+[2025-07-03T03:40:55.088+0000] {processor.py:153} INFO - Started process (PID=5130) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:55.089+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:40:55.089+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:55.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:55.098+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:40:55.117+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:55.117+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:40:55.136+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:40:55.136+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:40:55.155+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.069 seconds
+[2025-07-03T03:41:00.487+0000] {processor.py:153} INFO - Started process (PID=5154) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:00.488+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:00.488+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:00.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:00.496+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:00.508+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:00.508+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:00.520+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:00.520+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:00.529+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.043 seconds
+[2025-07-03T03:41:06.000+0000] {processor.py:153} INFO - Started process (PID=5163) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:06.000+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:06.001+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:06.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:06.009+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:06.026+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:06.026+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:06.041+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:06.041+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:06.063+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.065 seconds
+[2025-07-03T03:41:11.356+0000] {processor.py:153} INFO - Started process (PID=5188) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:11.356+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:11.357+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:11.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:11.368+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:11.382+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:11.381+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:11.397+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:11.397+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:11.413+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:41:16.767+0000] {processor.py:153} INFO - Started process (PID=5197) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:16.767+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:16.768+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:16.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:16.777+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:16.798+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:16.798+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:16.817+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:16.817+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:16.837+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.072 seconds
+[2025-07-03T03:41:22.156+0000] {processor.py:153} INFO - Started process (PID=5222) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:22.157+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:22.157+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:22.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:22.166+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:22.186+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:22.186+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:22.198+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:22.198+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:22.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:41:27.524+0000] {processor.py:153} INFO - Started process (PID=5231) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:27.524+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:27.524+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:27.524+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:27.533+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:27.546+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:27.546+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:27.561+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:27.560+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:27.568+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:41:32.934+0000] {processor.py:153} INFO - Started process (PID=5256) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:32.935+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:32.935+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:32.935+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:32.944+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:32.961+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:32.961+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:32.976+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:32.976+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:32.991+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:41:38.315+0000] {processor.py:153} INFO - Started process (PID=5265) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:38.315+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:38.315+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:38.315+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:38.325+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:38.345+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:38.345+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:38.363+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:38.363+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:38.376+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:41:43.688+0000] {processor.py:153} INFO - Started process (PID=5290) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:43.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:43.689+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:43.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:43.697+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:43.709+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:43.709+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:43.723+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:43.723+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:43.732+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.046 seconds
+[2025-07-03T03:41:49.081+0000] {processor.py:153} INFO - Started process (PID=5299) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:49.082+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:49.082+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:49.082+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:49.092+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:49.105+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:49.105+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:49.116+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:49.116+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:49.125+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:41:54.504+0000] {processor.py:153} INFO - Started process (PID=5324) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:54.504+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:54.505+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:54.504+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:54.513+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:54.528+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:54.527+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:41:54.541+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:54.541+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:41:54.551+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:41:59.950+0000] {processor.py:153} INFO - Started process (PID=5333) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:59.951+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:41:59.951+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:41:59.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:41:59.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:00.003+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:00.003+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:00.022+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:00.022+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:00.045+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.100 seconds
+[2025-07-03T03:42:05.441+0000] {processor.py:153} INFO - Started process (PID=5358) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:05.442+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:05.444+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:05.444+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:05.454+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:05.468+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:05.468+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:05.483+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:05.483+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:05.496+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:42:10.811+0000] {processor.py:153} INFO - Started process (PID=5367) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:10.814+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:10.815+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:10.815+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:10.823+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:10.837+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:10.837+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:10.850+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:10.850+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:10.861+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.052 seconds
+[2025-07-03T03:42:16.186+0000] {processor.py:153} INFO - Started process (PID=5392) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:16.187+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:16.187+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:16.187+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:16.203+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:16.227+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:16.227+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:16.245+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:16.245+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:16.261+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.078 seconds
+[2025-07-03T03:42:21.590+0000] {processor.py:153} INFO - Started process (PID=5401) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:21.590+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:21.591+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:21.591+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:21.598+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:21.610+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:21.610+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:21.621+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:21.621+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:21.629+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:42:26.965+0000] {processor.py:153} INFO - Started process (PID=5426) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:26.966+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:26.966+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:26.966+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:26.976+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:26.999+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:26.999+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:27.015+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:27.015+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:27.032+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.069 seconds
+[2025-07-03T03:42:32.360+0000] {processor.py:153} INFO - Started process (PID=5435) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:32.362+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:32.362+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:32.362+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:32.372+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:32.386+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:32.386+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:32.399+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:32.399+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:32.407+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.048 seconds
+[2025-07-03T03:42:37.700+0000] {processor.py:153} INFO - Started process (PID=5451) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:37.700+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:37.701+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:37.701+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:37.713+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:37.733+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:37.732+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:37.750+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:37.750+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:37.764+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.066 seconds
+[2025-07-03T03:42:43.079+0000] {processor.py:153} INFO - Started process (PID=5469) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:43.079+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:43.080+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:43.080+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:43.089+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:43.106+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:43.106+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:43.120+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:43.120+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:43.132+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.055 seconds
+[2025-07-03T03:42:48.408+0000] {processor.py:153} INFO - Started process (PID=5478) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:48.409+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:48.409+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:48.409+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:48.417+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:48.433+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:48.433+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:48.449+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:48.449+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:48.460+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:42:53.752+0000] {processor.py:153} INFO - Started process (PID=5503) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:53.753+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:53.753+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:53.753+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:53.763+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:53.785+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:53.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:53.802+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:53.802+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:53.818+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.067 seconds
+[2025-07-03T03:42:59.204+0000] {processor.py:153} INFO - Started process (PID=5512) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:59.205+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:42:59.205+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:59.205+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:59.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:42:59.237+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:59.237+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:42:59.254+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:42:59.254+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:42:59.271+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.068 seconds
+[2025-07-03T03:43:04.626+0000] {processor.py:153} INFO - Started process (PID=5537) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:04.627+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:04.627+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:04.627+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:04.635+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:04.648+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:04.648+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:04.662+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:04.662+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:04.670+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.046 seconds
+[2025-07-03T03:43:10.078+0000] {processor.py:153} INFO - Started process (PID=5546) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:10.079+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:10.079+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:10.079+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:10.096+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:10.110+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:10.110+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:10.121+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:10.121+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:10.130+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:43:15.512+0000] {processor.py:153} INFO - Started process (PID=5570) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:15.512+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:15.513+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:15.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:15.521+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:15.536+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:15.536+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:15.550+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:15.550+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:15.561+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:43:20.847+0000] {processor.py:153} INFO - Started process (PID=5579) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:20.848+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:20.848+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:20.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:20.857+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:20.875+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:20.875+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:20.888+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:20.887+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:20.897+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:43:26.180+0000] {processor.py:153} INFO - Started process (PID=5603) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:26.181+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:26.181+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:26.181+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:26.189+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:26.205+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:26.205+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:26.217+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:26.217+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:26.229+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:43:31.509+0000] {processor.py:153} INFO - Started process (PID=5612) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:31.509+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:31.510+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:31.510+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:31.518+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:31.534+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:31.534+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:31.548+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:31.548+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:31.562+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.055 seconds
+[2025-07-03T03:43:36.869+0000] {processor.py:153} INFO - Started process (PID=5637) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:36.870+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:36.870+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:36.870+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:36.879+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:36.899+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:36.899+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:36.917+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:36.917+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:36.929+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.062 seconds
+[2025-07-03T03:43:42.255+0000] {processor.py:153} INFO - Started process (PID=5646) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:42.256+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:42.256+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:42.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:42.267+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:42.280+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:42.280+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:42.293+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:42.293+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:42.302+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:43:47.674+0000] {processor.py:153} INFO - Started process (PID=5671) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:47.675+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:47.675+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:47.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:47.684+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:47.701+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:47.701+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:47.715+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:47.715+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:47.728+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:43:53.033+0000] {processor.py:153} INFO - Started process (PID=5680) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:53.034+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:53.034+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:53.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:53.042+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:53.055+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:53.055+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:53.068+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:53.068+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:53.076+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.045 seconds
+[2025-07-03T03:43:58.450+0000] {processor.py:153} INFO - Started process (PID=5705) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:58.451+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:43:58.451+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:58.451+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:58.460+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:43:58.474+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:58.474+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:43:58.491+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:43:58.491+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:43:58.501+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.053 seconds
+[2025-07-03T03:44:03.833+0000] {processor.py:153} INFO - Started process (PID=5714) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:03.834+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:03.835+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:03.835+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:03.845+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:03.865+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:03.865+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:03.888+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:03.888+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:03.904+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.073 seconds
+[2025-07-03T03:44:09.243+0000] {processor.py:153} INFO - Started process (PID=5739) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:09.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:09.244+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:09.244+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:09.255+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:09.275+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:09.275+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:09.299+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:09.299+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:09.322+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.080 seconds
+[2025-07-03T03:44:14.723+0000] {processor.py:153} INFO - Started process (PID=5748) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:14.724+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:14.725+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:14.725+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:14.734+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:14.747+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:14.747+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:14.760+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:14.760+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:14.774+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:44:20.148+0000] {processor.py:153} INFO - Started process (PID=5766) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:20.148+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:20.149+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:20.149+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:20.157+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:20.190+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:20.190+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:20.218+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:20.218+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:20.257+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.112 seconds
+[2025-07-03T03:44:25.665+0000] {processor.py:153} INFO - Started process (PID=5782) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:25.666+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:25.666+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:25.666+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:25.676+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:25.698+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:25.698+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:25.718+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:25.718+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:25.732+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.069 seconds
+[2025-07-03T03:44:31.097+0000] {processor.py:153} INFO - Started process (PID=5798) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:31.098+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:31.099+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:31.099+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:31.118+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:31.142+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:31.142+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:31.165+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:31.165+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:31.190+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.098 seconds
+[2025-07-03T03:44:36.602+0000] {processor.py:153} INFO - Started process (PID=5816) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:36.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:36.603+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:36.603+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:36.612+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:36.629+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:36.629+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:36.642+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:36.642+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:36.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:44:41.977+0000] {processor.py:153} INFO - Started process (PID=5825) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:41.978+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:41.979+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:41.979+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:42.005+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:42.027+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:42.027+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:42.042+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:42.042+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:42.053+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.080 seconds
+[2025-07-03T03:44:47.364+0000] {processor.py:153} INFO - Started process (PID=5850) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:47.364+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:47.365+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:47.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:47.375+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:47.393+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:47.393+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:47.408+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:47.408+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:47.419+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.057 seconds
+[2025-07-03T03:44:52.761+0000] {processor.py:153} INFO - Started process (PID=5859) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:52.761+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:52.761+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:52.761+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:52.770+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:52.785+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:52.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:52.799+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:52.799+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:52.809+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:44:58.106+0000] {processor.py:153} INFO - Started process (PID=5884) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:58.107+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:44:58.107+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:58.107+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:58.116+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:44:58.130+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:58.130+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:44:58.144+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:44:58.144+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:44:58.154+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:45:03.425+0000] {processor.py:153} INFO - Started process (PID=5893) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:03.426+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:03.426+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:03.426+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:03.434+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:03.446+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:03.446+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:03.457+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:03.457+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:03.465+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:45:08.809+0000] {processor.py:153} INFO - Started process (PID=5918) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:08.809+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:08.809+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:08.809+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:08.817+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:08.829+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:08.829+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:08.840+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:08.840+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:08.849+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.042 seconds
+[2025-07-03T03:45:14.181+0000] {processor.py:153} INFO - Started process (PID=5927) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:14.182+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:14.182+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:14.182+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:14.191+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:14.205+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:14.205+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:14.218+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:14.217+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:14.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:45:19.559+0000] {processor.py:153} INFO - Started process (PID=5952) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:19.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:19.559+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:19.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:19.568+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:19.583+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:19.583+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:19.596+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:19.595+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:19.604+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:45:24.900+0000] {processor.py:153} INFO - Started process (PID=5961) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:24.900+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:24.901+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:24.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:24.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:24.921+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:24.921+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:24.933+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:24.933+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:24.940+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.043 seconds
+[2025-07-03T03:45:30.252+0000] {processor.py:153} INFO - Started process (PID=5986) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:30.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:30.254+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:30.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:30.265+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:30.278+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:30.278+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:30.291+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:30.291+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:30.300+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:45:35.571+0000] {processor.py:153} INFO - Started process (PID=5995) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:35.572+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:35.572+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:35.572+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:35.584+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:35.601+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:35.601+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:35.618+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:35.618+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:35.630+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.060 seconds
+[2025-07-03T03:45:40.959+0000] {processor.py:153} INFO - Started process (PID=6020) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:40.959+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:40.960+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:40.960+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:40.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:40.985+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:40.985+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:41.000+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:41.000+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:41.011+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:45:46.293+0000] {processor.py:153} INFO - Started process (PID=6029) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:46.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:46.294+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:46.294+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:46.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:46.318+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:46.317+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:46.331+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:46.331+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:46.340+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:45:51.620+0000] {processor.py:153} INFO - Started process (PID=6054) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:51.620+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:51.621+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:51.621+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:51.630+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:51.645+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:51.645+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:51.659+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:51.659+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:51.672+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.054 seconds
+[2025-07-03T03:45:57.112+0000] {processor.py:153} INFO - Started process (PID=6063) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:57.113+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:45:57.113+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:57.113+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:57.121+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:45:57.133+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:57.133+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:45:57.144+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:45:57.144+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:45:57.151+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.040 seconds
+[2025-07-03T03:46:02.511+0000] {processor.py:153} INFO - Started process (PID=6081) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:02.511+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:02.511+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:02.511+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:02.521+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:02.537+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:02.537+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:02.551+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:02.551+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:02.560+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.051 seconds
+[2025-07-03T03:46:08.167+0000] {processor.py:153} INFO - Started process (PID=6097) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:08.167+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:08.168+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:08.168+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:08.176+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:08.195+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:08.195+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:08.211+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:08.211+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:08.222+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.057 seconds
+[2025-07-03T03:46:13.549+0000] {processor.py:153} INFO - Started process (PID=6106) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:13.550+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:13.550+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:13.550+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:13.558+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:13.570+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:13.570+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:13.581+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:13.581+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:13.588+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:46:18.966+0000] {processor.py:153} INFO - Started process (PID=6131) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:18.967+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:18.968+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:18.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:18.977+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:18.992+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:18.992+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:19.005+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:19.005+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:19.019+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.055 seconds
+[2025-07-03T03:46:24.473+0000] {processor.py:153} INFO - Started process (PID=6140) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:24.473+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:24.474+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:24.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:24.482+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:24.494+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:24.494+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:24.505+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:24.505+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:24.514+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.042 seconds
+[2025-07-03T03:46:29.847+0000] {processor.py:153} INFO - Started process (PID=6165) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:29.847+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:29.848+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:29.847+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:29.857+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:29.875+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:29.875+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:29.888+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:29.888+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:29.901+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.056 seconds
+[2025-07-03T03:46:35.223+0000] {processor.py:153} INFO - Started process (PID=6174) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:35.224+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:35.224+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:35.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:35.232+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:35.249+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:35.249+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:35.264+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:35.264+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:35.276+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.055 seconds
+[2025-07-03T03:46:40.593+0000] {processor.py:153} INFO - Started process (PID=6199) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:40.593+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:40.593+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:40.593+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:40.601+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:40.614+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:40.614+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:40.626+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:40.626+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:40.634+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.043 seconds
+[2025-07-03T03:46:45.978+0000] {processor.py:153} INFO - Started process (PID=6208) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:45.978+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:45.979+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:45.979+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:45.988+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:46.009+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:46.009+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:46.031+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:46.031+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:46.052+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.076 seconds
+[2025-07-03T03:46:51.388+0000] {processor.py:153} INFO - Started process (PID=6233) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:51.389+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:51.389+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:51.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:51.399+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:51.421+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:51.421+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:51.440+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:51.439+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:51.455+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.069 seconds
+[2025-07-03T03:46:56.822+0000] {processor.py:153} INFO - Started process (PID=6242) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:56.823+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:46:56.824+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:56.824+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:56.833+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:46:56.848+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:56.848+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:46:56.868+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:46:56.868+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:46:56.878+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.058 seconds
+[2025-07-03T03:47:02.258+0000] {processor.py:153} INFO - Started process (PID=6267) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:02.259+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:02.259+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:02.259+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:02.269+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:02.331+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:02.331+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:02.374+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:02.374+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:02.389+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.133 seconds
+[2025-07-03T03:47:07.823+0000] {processor.py:153} INFO - Started process (PID=6276) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:07.823+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:07.824+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:07.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:07.833+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:07.847+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:07.847+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:07.859+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:07.859+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:07.867+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:47:13.183+0000] {processor.py:153} INFO - Started process (PID=6301) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:13.183+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:13.183+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:13.183+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:13.193+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:13.215+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:13.215+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:13.230+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:13.230+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:13.244+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:47:18.584+0000] {processor.py:153} INFO - Started process (PID=6310) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:18.585+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:18.585+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:18.585+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:18.595+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:18.611+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:18.611+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:18.625+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:18.625+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:18.635+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.053 seconds
+[2025-07-03T03:47:23.968+0000] {processor.py:153} INFO - Started process (PID=6335) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:23.969+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:23.969+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:23.969+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:23.978+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:23.993+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:23.993+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:24.006+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:24.006+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:24.015+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.049 seconds
+[2025-07-03T03:47:29.593+0000] {processor.py:153} INFO - Started process (PID=6344) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:29.593+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:29.593+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:29.593+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:29.602+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:29.615+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:29.615+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:29.626+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:29.626+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:29.634+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.044 seconds
+[2025-07-03T03:47:34.978+0000] {processor.py:153} INFO - Started process (PID=6368) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:34.979+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:34.979+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:34.979+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:34.988+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:35.002+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:35.002+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:35.015+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:35.015+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:35.027+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.050 seconds
+[2025-07-03T03:47:40.334+0000] {processor.py:153} INFO - Started process (PID=6377) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:40.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:40.335+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:40.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:40.343+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:40.355+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:40.355+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:40.366+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:40.366+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:40.374+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:47:45.770+0000] {processor.py:153} INFO - Started process (PID=6402) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:45.771+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:45.771+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:45.771+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:45.782+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:45.797+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:45.797+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:45.816+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:45.816+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:45.831+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:47:51.223+0000] {processor.py:153} INFO - Started process (PID=6411) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:51.224+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:51.224+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:51.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:51.232+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:51.252+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:51.252+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:51.266+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:51.266+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:51.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:47:56.560+0000] {processor.py:153} INFO - Started process (PID=6427) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:56.561+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:47:56.561+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:56.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:56.571+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:47:56.586+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:56.586+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:47:56.603+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:47:56.603+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:47:56.628+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.071 seconds
+[2025-07-03T03:48:02.017+0000] {processor.py:153} INFO - Started process (PID=6445) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:02.017+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:02.017+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:02.017+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:02.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:02.049+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:02.049+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:02.065+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:02.065+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:02.077+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.063 seconds
+[2025-07-03T03:48:07.420+0000] {processor.py:153} INFO - Started process (PID=6454) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:07.420+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:07.421+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:07.420+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:07.428+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:07.441+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:07.440+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:07.453+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:07.453+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:07.463+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.045 seconds
+[2025-07-03T03:48:12.867+0000] {processor.py:153} INFO - Started process (PID=6479) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:12.867+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:12.868+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:12.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:12.879+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:12.895+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:12.895+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:12.913+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:12.913+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:12.924+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.060 seconds
+[2025-07-03T03:48:18.250+0000] {processor.py:153} INFO - Started process (PID=6488) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:18.251+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:18.251+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:18.251+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:18.259+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:18.271+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:18.271+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:18.282+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:18.282+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:18.290+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:48:23.624+0000] {processor.py:153} INFO - Started process (PID=6513) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:23.624+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:23.624+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:23.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:23.633+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:23.649+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:23.649+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:23.663+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:23.663+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:23.675+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.053 seconds
+[2025-07-03T03:48:28.985+0000] {processor.py:153} INFO - Started process (PID=6522) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:28.988+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:28.988+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:28.988+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:28.998+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:29.017+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:29.017+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:29.032+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:29.032+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:29.049+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.066 seconds
+[2025-07-03T03:48:34.382+0000] {processor.py:153} INFO - Started process (PID=6547) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:34.383+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:34.384+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:34.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:34.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:34.413+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:34.413+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:34.428+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:34.428+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:34.439+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.059 seconds
+[2025-07-03T03:48:39.739+0000] {processor.py:153} INFO - Started process (PID=6556) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:39.740+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:39.740+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:39.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:39.748+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:39.763+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:39.763+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:39.778+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:39.778+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:39.789+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.052 seconds
+[2025-07-03T03:48:45.129+0000] {processor.py:153} INFO - Started process (PID=6581) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:45.129+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:45.130+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:45.130+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:45.143+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:45.165+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:45.165+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:45.181+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:45.180+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:45.193+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.066 seconds
+[2025-07-03T03:48:50.490+0000] {processor.py:153} INFO - Started process (PID=6590) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:50.491+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:50.492+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:50.492+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:50.506+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:50.526+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:50.526+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:50.550+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:50.550+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:50.568+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.082 seconds
+[2025-07-03T03:48:55.902+0000] {processor.py:153} INFO - Started process (PID=6615) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:55.902+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:48:55.903+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:55.902+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:55.910+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:48:55.923+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:55.922+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:48:55.934+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:48:55.934+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:48:55.941+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:49:01.293+0000] {processor.py:153} INFO - Started process (PID=6624) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:01.293+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:01.294+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:01.294+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:01.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:01.322+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:01.322+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:01.338+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:01.338+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:01.348+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.057 seconds
+[2025-07-03T03:49:06.631+0000] {processor.py:153} INFO - Started process (PID=6649) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:06.631+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:06.631+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:06.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:06.640+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:06.653+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:06.653+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:06.667+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:06.667+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:06.676+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:49:11.972+0000] {processor.py:153} INFO - Started process (PID=6658) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:11.972+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:11.973+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:11.973+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:11.981+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:11.995+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:11.995+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:12.008+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:12.008+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:12.017+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.047 seconds
+[2025-07-03T03:49:17.393+0000] {processor.py:153} INFO - Started process (PID=6683) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:17.397+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:17.399+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:17.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:17.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:17.455+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:17.455+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:17.482+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:17.482+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:17.506+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.116 seconds
+[2025-07-03T03:49:22.893+0000] {processor.py:153} INFO - Started process (PID=6692) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:22.894+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:22.894+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:22.894+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:22.902+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:22.914+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:22.914+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:22.925+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:22.925+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:22.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.041 seconds
+[2025-07-03T03:49:28.302+0000] {processor.py:153} INFO - Started process (PID=6710) to work on /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:28.304+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_4.py for tasks to queue
+[2025-07-03T03:49:28.304+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:28.304+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:28.314+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_4_complexa']) retrieved from /opt/airflow/dags/trigger_4.py
+[2025-07-03T03:49:28.348+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:28.348+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-07-03T03:49:28.375+0000] {logging_mixin.py:137} INFO - [2025-07-03T03:49:28.375+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_4_complexa to None, run_after=None
+[2025-07-03T03:49:28.405+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_4.py took 0.106 seconds

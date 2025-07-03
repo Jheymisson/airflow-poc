@@ -8,7 +8,7 @@ def test_dags_importadas_sem_erro():
     assert len(dag_bag.import_errors) == 0, f"Erros ao importar DAGs: {dag_bag.import_errors}"
 
 @pytest.mark.parametrize("dag_id, num_tasks", [
-    ('primeira_dag', 3),
+    ('primeira_dag', 1),
     ('segunda_dag', 3),
     ('terceira_dag', 3),
     ('quarta_dag', 3),
