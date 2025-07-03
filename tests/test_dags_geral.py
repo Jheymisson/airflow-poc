@@ -12,7 +12,7 @@ def test_dags_importadas_sem_erro():
 
 # Teste parametrizado para verificar se cada DAG tem o número esperado de tasks
 @pytest.mark.parametrize("dag_id, num_tasks", [
-    ('1_basica_dag', 3),
+    ('1_basica_dag', 6),
     ('2_basica_dag', 3),
     ('3_basica_dag', 3),
     ('4_basica_dag', 3),
