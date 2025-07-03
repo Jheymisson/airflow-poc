@@ -18,7 +18,7 @@ pipeline {
                 expression { currentBuild.result == null || currentBuild.result == 'SUCCESS' }
             }
             steps {
-                echo 'Deploy realizado com sucesso!'
+                sh 'echo "Deploy executado com sucesso no ambiente de QA."'
             }
         }
     }

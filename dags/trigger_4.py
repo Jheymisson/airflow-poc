@@ -3,7 +3,7 @@ from airflow.operators.bash_operator import BashOperator
 from datetime import datetime
 
 
-dag = DAG('trigger_4_complexa', description="Trigger 4",
+dag = DAG('trigger_4', description="Trigger 4",
           schedule_interval=None, start_date=datetime(2025,4,10),
           catchup=False)
 
