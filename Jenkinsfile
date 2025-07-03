@@ -2,20 +2,17 @@ pipeline {
     agent any
 
     stages {
-        stage('Clonar código') {
-            steps {
-                git url: 'https://github.com/Jheymisson/airflow-poc.git', branch: 'master'
-            }
-        }
-
         stage('Executar testes') {
             steps {
-                sh '''
-                    docker-compose exec -T airflow-webserver bash -c "
-                        pip install -q pytest &&
-                        pytest /opt/airflow/tests/test_dags_geral.py
-                    "
-                '''
+                dir('/Users/jheymissonalbuquerque/Documents/estudo_airflow') {
+                {
+                    sh '''
+                        docker-compose exec -T airflow-webserver bash -c "
+                          pip install -q pytest &&
+                          pytest /opt/airflow/tests/test_dags_geral.py
+                        "
+                    '''
+                }
             }
         }
 
@@ -26,8 +23,13 @@ pipeline {
                 }
             }
             steps {
-                echo 'Testes passaram, executando deploy do Airflow'
-                sh 'docker-compose up -d --build'
+                dir('caminho/do/seu/projeto') {
+                    sh '''
+                        docker-compose exec -T airflow-webserver bash -c "
+                          airflow dags reload
+                        "
+                    '''
+                }
             }
         }
     }
